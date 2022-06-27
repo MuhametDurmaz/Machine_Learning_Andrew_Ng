@@ -9,5 +9,5 @@ This repository contains homework solutions for the machine learning course on C
 * Steps to follow defined by Andrew Ng are in the ex2.mlx file.
 ### Ex3 Multiclass Classification
 * This example involves multi class classification with logistic regression and an application of neural nnetwork with trained coefficients.
-* Steps to follow defined by Andrew Ng are in the ex2.mlx file.
+* Steps to follow defined by Andrew Ng are in the ex3.mlx file.
 * Ex3_companion mlx file shows the alternative application by MATLAB built-in tools.
